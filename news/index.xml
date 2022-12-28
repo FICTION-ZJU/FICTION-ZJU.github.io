@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/news/</link>
+      <atom:link href="https://fiction-zju.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Latest News</title>
+      <link>https://fiction-zju.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted by TACAS 2023</title>
+      <link>https://fiction-zju.github.io/news/22-12-23-paper-tacas2023/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-12-23-paper-tacas2023/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at TACAS 2023.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/batz-cegis2023/&#34;&gt;Probabilistic Program Verification via Inductive Synthesis of Inductive Invariants&lt;/a&gt;&amp;rdquo; by Kevin Batz (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Sebastian Junges (Radboud), Benjamin Lucien Kaminski (Saarland/UCL), Joost-Pieter Katoen (RWTH Aachen), and Christoph Matheja (DTU) has been accepted for presentation at TACAS 2023 &amp;ndash; the 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems at Paris, France. This paper contributes a simple yet effective inductive synthesis approach for proving quantitative properties of (in)finite-state probabilistic programs by generating inductive invariants on source-code level.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Conditionally Accepted by OOPSLA 2023</title>
+      <link>https://fiction-zju.github.io/news/22-12-23-paper-oopsla2023/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-12-23-paper-oopsla2023/</guid>
+      <description>&lt;p&gt;Our paper has been conditionally accepted for presentation at OOPSLA 2023.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/feng-oopsla2023/&#34;&gt;Lower Bounds for Possibly Divergent Probabilistic Programs&lt;/a&gt;&amp;rdquo; by Shenghua Feng (ISCAS), Han Su (ISCAS), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Benjamin Lucien Kaminski (Saarland/UCL), Joost-Pieter Katoen (RWTH Aachen), and Naijun Zhan (ISCAS) has been conditionally accepted for presentation at OOPSLA 2023 in Lisbon, Portugal, as part of the Proceedings of the ACM on Programming Languages (PACMPL). This paper contributes a new proof rule for verifying lower bounds on quantities of possibly divergent probabilistic programs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by LAFI 2023</title>
+      <link>https://fiction-zju.github.io/news/22-12-01-paper-lafi2023/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-12-01-paper-lafi2023/</guid>
+      <description>&lt;p&gt;Our extended abstract has been accepted for presentation at LAFI 2023.&lt;/p&gt;
+&lt;p&gt;Our extended abstract titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/klinkenberg-lafi2023/&#34;&gt;Exact Probabilistic Inference Using Generating Functions&lt;/a&gt;&amp;rdquo; by Lutz Klinkenberg (RWTH Aachen), Tobias Winkler (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Joost-Pieter Katoen (RWTH Aachen) has been accepted for presentation at LAFI 2023 &amp;ndash; the Languages for Inference workshop co-located with POPL 2023 at Boston, Massachusetts, United States. This extended abstract presents our ongoing research in addressing the problem of exact inference for probabilistic programs leveraging generating functions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FICTION Website Is Online</title>
+      <link>https://fiction-zju.github.io/news/22-11-27-fiction-online/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-11-27-fiction-online/</guid>
+      <description>&lt;p&gt;We have just launched this website for our FICTION research group at ZJU.&lt;/p&gt;
+&lt;p&gt;The FICTION website is published by &lt;a href=&#34;https://wowchemy.com/?utm_campaign=poweredby&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; and &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Pages&lt;/a&gt;; see &lt;a href=&#34;https://www.jameswright.xyz/post/20200409/deploy_wowchemy_to_githubio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;James Wright&amp;rsquo;s post&lt;/a&gt; on automating the deployment. The design is inspired by &lt;a href=&#34;http://geneticlogiclab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genetic Logic Lab&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

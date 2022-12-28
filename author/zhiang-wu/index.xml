@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhiang Wu | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/author/zhiang-wu/</link>
+      <atom:link href="https://fiction-zju.github.io/author/zhiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhiang Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fiction-zju.github.io/author/zhiang-wu/avatar_hu1796593cdbb96303a559a47340f8a133_137884_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Zhiang Wu</title>
+      <link>https://fiction-zju.github.io/author/zhiang-wu/</link>
+    </image>
+    
+  </channel>
+</rss>
