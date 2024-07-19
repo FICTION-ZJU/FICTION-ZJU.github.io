@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/tag/awards/</link>
+      <atom:link href="https://fiction-zju.github.io/tag/awards/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Awards</title>
+      <link>https://fiction-zju.github.io/tag/awards/</link>
+    </image>
+    
+    <item>
+      <title>NSFC Excellent Young Scientists Fund (Overseas) Granted</title>
+      <link>https://fiction-zju.github.io/news/23-10-13-grant-nsfc-excellent-young-scientist/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/23-10-13-grant-nsfc-excellent-young-scientist/</guid>
+      <description>&lt;p&gt;Prof. Dr. &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt; is awarded the NSFC Excellent Young Scientists Fund Program (Overseas).&lt;/p&gt;
+&lt;p&gt;Our project proposal titled &amp;ldquo;Formal Design of Safety-Critical Cyber-Physical Systems&amp;rdquo; has been granted for funding by the National Natural Science Foundation of China (NSFC) as an Excellent Young Scientists Fund Program (Overseas). This program is known as one of the most prestigious grants for young researchers across China. The project aims to carry out research under the umbrella of automated synthesis of cyber-physical systems by exploring mechanized principles for designing complex safety-critical systems while aiming to establish cutting-edge synthesis techniques powered by verification methods.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
