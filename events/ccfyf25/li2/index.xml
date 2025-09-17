@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SMT(NRA)高效求解：结合局部搜索，MCSAT和openCAD的混合方法 | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/events/ccfyf25/li2/</link>
+      <atom:link href="https://fiction-zju.github.io/events/ccfyf25/li2/index.xml" rel="self" type="application/rss+xml" />
+    <description>SMT(NRA)高效求解：结合局部搜索，MCSAT和openCAD的混合方法</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>SMT(NRA)高效求解：结合局部搜索，MCSAT和openCAD的混合方法</title>
+      <link>https://fiction-zju.github.io/events/ccfyf25/li2/</link>
+    </image>
+    
+  </channel>
+</rss>
