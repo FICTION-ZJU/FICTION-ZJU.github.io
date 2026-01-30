@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantitative Verification of Omega-regular Properties in Probabilistic Programming | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/26-01-09/mingqi/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/26-01-09/mingqi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantitative Verification of Omega-regular Properties in Probabilistic Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Quantitative Verification of Omega-regular Properties in Probabilistic Programming</title>
+      <link>https://fiction-zju.github.io/seminar/26-01-09/mingqi/</link>
+    </image>
+    
+  </channel>
+</rss>

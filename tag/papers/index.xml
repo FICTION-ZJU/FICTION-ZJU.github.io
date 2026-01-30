@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papers | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/tag/papers/</link>
+      <atom:link href="https://fiction-zju.github.io/tag/papers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Papers</title>
+      <link>https://fiction-zju.github.io/tag/papers/</link>
+    </image>
+    
+    <item>
+      <title>Paper Accepted by HSCC 2026</title>
+      <link>https://fiction-zju.github.io/news/26-01-30-paper-hscc2026/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/26-01-30-paper-hscc2026/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at HSCC 2026.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/yu-hscc2026/&#34;&gt;Derivative-Agnostic Inference of Nonlinear Hybrid Systems&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/hengzhi-yu/&#34;&gt;Hengzhi Yu&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/bohan-ma/&#34;&gt;Bohan Ma&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/huangying-dong/&#34;&gt;Huangying Dong&lt;/a&gt;, Jie An (ISCAS), Bin Gu (Beijing Institute of Control Engineering), Naijun Zhan (PKU), and Jianwei Yin has been accepted by HSCC 2026 &amp;ndash; The 29th ACM International Conference on Hybrid Systems: Computation and Control at Saint Malo, France. This paper presents &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Dainarx&lt;/span&gt; &amp;ndash; a derivative-agnostic approach to inferring nonlinear hybrid automata whose dynamics are captured by nonlinear autoregressive exogenous (NARX) models. Dainarx is, to the best of our knowledge, the first approach that admits high-order non-polynomial dynamics with non-polynomial inputs/guards, and linear resets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by OOPSLA 2026</title>
+      <link>https://fiction-zju.github.io/news/25-12-18-paper-oopsla2026/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-12-18-paper-oopsla2026/</guid>
+      <description>&lt;p&gt;Our paper has been unconditionally accepted for presentation at OOPSLA 2026.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/wang-oopsla2026/&#34;&gt;A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/zhongyi-wang/&#34;&gt;Zhongyi Wang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/tengjie-lin/&#34;&gt;Tengjie Lin&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Haokun Li (Fermat Labs, Huawei Inc.), &lt;a href=&#34;https://fiction-zju.github.io/author/mingqi-yang/&#34;&gt;Mingqi Yang&lt;/a&gt;, Xiao Yi, Shengchao Qin (Fermat Labs, Huawei Inc.), Yixing Luo, Xiaofeng Li, Bin Gu (Beijing Institute of Control Engineering), Liqiang Lu, and Jianwei Yin has been accepted for publication OOPSLA 2026, in Oakland, California, United States, as part of the Proceedings of the ACM on Programming Languages (PACMPL). This article presents &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Preguss&lt;/span&gt; &amp;ndash; a modular, fine-grained framework for inferring formal specifications that integrates static analysis and deductive verification in a sound and terminating manner. &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Preguss&lt;/span&gt; is, to the best of our knowledge, the first automated method capable of proving RTE-freeness of real-world programs with over 1,000 LoC (with marginal human effort).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by Form. Asp. Comput.</title>
+      <link>https://fiction-zju.github.io/news/25-12-08-paper-fac2025/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-12-08-paper-fac2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by Formal Aspects of Computing.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/zhan-fac2025/&#34;&gt;A Brief History of Formal Methods in China&lt;/a&gt;&amp;rdquo; by Naijun Zhan (PKU), Jim Woodcock (University of York), Ji Wang (NUDT), and &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt; has been accepted for publication at Formal Aspects of Computing. This article provides a historical account of the development of formal methods in China.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by IEEE Trans. Inf. Forensics Secur.</title>
+      <link>https://fiction-zju.github.io/news/25-10-09-paper-tifs2025/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-10-09-paper-tifs2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by IEEE Transactions on Information Forensics &amp;amp; Security.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/zhang-pa-boot2025/&#34;&gt;PA-Boot: A Formally Verified Authentication Protocol for Multiprocessor Secure Boot under Hardware Supply-chain Attacks&lt;/a&gt;&amp;rdquo; by Zhuoruo Zhang, Rui Chang, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Wenbo Shen, Chenyang Yu, He Huang, Qinming Dai, and Yongwang Zhao has been accepted for publication at the IEEE Transactions on Information Forensics &amp;amp; Security. This article presents PA-Boot, the first formally verified processor-authentication protocol for secure boot in multiprocessor systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by SPLASH (LMPL) 2025</title>
+      <link>https://fiction-zju.github.io/news/25-08-09-paper-lmpl2025/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-08-09-paper-lmpl2025/</guid>
+      <description>&lt;p&gt;Our position paper has been accepted for presentation at SPLASH (LMPL) 2025.&lt;/p&gt;
+&lt;p&gt;Our position paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/wang-lmpl2025/&#34;&gt;Preguss: It Analyzes, It Specifies, It Verifies&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/zhongyi-wang/&#34;&gt;Zhongyi Wang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/tengjie-lin/&#34;&gt;Tengjie Lin&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingqi-yang/&#34;&gt;Mingqi Yang&lt;/a&gt;, Haokun Li (Fermat Labs, Huawei Inc.), Xiao Yi (Fermat Labs, Huawei Inc.), Shengchao Qin (Fermat Labs, Huawei Inc.), and Jianwei Yin has been accepted for presentation at SPLASH (LMPL) 2025 &amp;ndash; the ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (Workshop on Language Models and Programming Languages) at Singapore. This position paper outlines &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Preguss&lt;/span&gt; &amp;ndash; a modular, fine-grained framework for automating the generation and refinement of formal specifications; It synergizes between static analysis and deductive verification by leveraging the comprehension, reasoning, and generative capabilities of large language models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two Papers Accepted by MICRO 2025</title>
+      <link>https://fiction-zju.github.io/news/25-07-15-paper-micro2025/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-07-15-paper-micro2025/</guid>
+      <description>&lt;p&gt;Two papers have been accepted for presentation at MICRO 2025.&lt;/p&gt;
+&lt;p&gt;Two papers co-authored by FICTION have been accepted for presentation at MICRO 2025 &amp;ndash; the 58th IEEE/ACM International Symposium on Microarchitecture® at Seoul, Korea. The paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/zhou-micro2025/&#34;&gt;Vegapunk: Accurate and Fast Decoding for Quantum LDPC Codes with Online Hierarchical Algorithm and Sparse Accelerator&lt;/a&gt;&amp;rdquo; by Kaiwen Zhou, Liqiang Lu, Debin Xiang, Chenning Tao, Anbang Wu (SJTU), Jingwen Leng (SJTU), Fangxin Liu (SJTU), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Jianwei Yin presents Vegapunk, a software-hardware co-design framework that enables real-time qLDPC decoding with high accuracy; The paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/tian-micro2025/&#34;&gt;YOUTIAO: Hybrid Multiplexing with Dynamic Qubit Grouping for Low-cost and Scalable Quantum Wiring&lt;/a&gt;&amp;rdquo; by Wuwei Tian, Liqiang Lu, Siwei Tan, Shiyu Li, Hengyi Li, Tianyao Chu, Xuhong Zhang, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Jianwei Yin contributes a multiplexing-aware design for the peripheral control lines of quantum processors, combining cryostat-level wiring optimization with on-chip routing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by IEEE Trans. Comput.</title>
+      <link>https://fiction-zju.github.io/news/25-07-01-paper-tc2025/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-07-01-paper-tc2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by IEEE Transactions on Computers.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/xiang-tc2025/&#34;&gt;AdaptDQC: Adaptive Distributed Quantum Computing with Quantitative Performance Analysis&lt;/a&gt;&amp;rdquo; by Debin Xiang, Liqiang Lu, Siwei Tan, Xinghui Jia, Zhe Zhou, Guangyu Sun, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Jianwei Yin has been accepted for publication at the IEEE Transactions on Computers. This article presents AdaptDQC, an adaptive compiler framework for optimizing distributed quantum computing under diverse performance metrics and inter-chip communication architectures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ACL 2025</title>
+      <link>https://fiction-zju.github.io/news/25-05-16-paper-acl2025/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-05-16-paper-acl2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by ACL 2025 Findings.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/sun-crescent/&#34;&gt;The Self-Improvement Paradox: Can Language Models Bootstrap Reasoning Capabilities without External Scaffolding?&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/yutao-sun/&#34;&gt;Yutao Sun&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Tiancheng Zhao, Ruochen Xu, Zilun Zhang, and Jianwei Yin has been accepted by ACL 2025 (Findings) &amp;ndash; The 63rd Annual Meeting of the Association for Computational Linguistics at Vienna, Austria. This paper presents &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Crescent&lt;/span&gt; &amp;ndash; a simple yet effective framework for generating high-quality synthetic data for improving the mathematical reasoning capabilities of an LLM with zero supervision signals while preserving its general performance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by IJCAI 2025</title>
+      <link>https://fiction-zju.github.io/news/25-04-29-paper-ijcai2025/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-04-29-paper-ijcai2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at IJCAI 2025.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/sun-horae/&#34;&gt;Horae: A Domain-Agnostic Language for Automated Service Regulation&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/yutao-sun/&#34;&gt;Yutao Sun&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Tiancheng Zhao, Kangjia Zhao, &lt;a href=&#34;https://fiction-zju.github.io/author/he-li/&#34;&gt;He Li&lt;/a&gt;, Jintao Chen, &lt;a href=&#34;https://fiction-zju.github.io/author/zhongyi-wang/&#34;&gt;Zhongyi Wang&lt;/a&gt;, Liqiang Lu, Xinkui Zhao, Shuiguang Deng, and Jianwei Yin has been accepted for presentation at IJCAI 2025 &amp;ndash; the 34th International Joint Conference on Artificial Intelligence at Montreal, Canada. This paper presents &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Horae&lt;/span&gt;, a unified specification language for modeling (multimodal) regulation rules across a diverse set of domains, which facilitates an end-to-end framework for fully automated intelligent service regulation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by J. Comput. Sci. Technol.</title>
+      <link>https://fiction-zju.github.io/news/25-04-23-paper-jcst2025/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-04-23-paper-jcst2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by Journal of Computer Science and Technology.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/wang-jcst2025/&#34;&gt;Parf: An Adaptive Abstraction-Strategy Tuner for Static Analysis&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/zhongyi-wang/&#34;&gt;Zhongyi Wang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/tengjie-lin/&#34;&gt;Tengjie Lin&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/linyu-yang/&#34;&gt;Linyu Yang&lt;/a&gt;, Junhao Zhuo, Qiuye Wang (Fermat Labs, Huawei Inc.), Shengchao Qin (Fermat Labs, Huawei Inc.), Xiao Yi (Fermat Labs, Huawei Inc.), and Jianwei Yin has been accepted for publication at the Journal of Computer Science and Technology. This article launches &lt;span style=&#34;font-variant:small-caps;&#34;&gt;Parf&lt;/span&gt; &amp;ndash; a toolkit for adaptively tuning abstraction strategies of static program analyzers in a fully automated manner.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by CAV 2025</title>
+      <link>https://fiction-zju.github.io/news/25-04-02-paper-cav2025/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/25-04-02-paper-cav2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at CAV 2025.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/novozhilov-cav2025/&#34;&gt;On the Almost-Sure Termination of Probabilistic Counter Programs&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/sergei-novozhilov/&#34;&gt;Sergei Novozhilov&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingqi-yang/&#34;&gt;Mingqi Yang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/zhiyang-li/&#34;&gt;Zhiyang Li&lt;/a&gt;, and Jianwei Yin has been accepted for presentation at CAV 2025 &amp;ndash; the 37th International Conference on Computer Aided Verification, at Zagreb, Croatia. This paper introduces $k$-d PCPs &amp;ndash; the class of &lt;em&gt;probabilistic counter programs&lt;/em&gt; with $k \in \mathbb{N}$ counter variables inducing possibly infinite-state Markov chains. We show that the universal (positive) almost-sure termination problem is &lt;em&gt;undecidable&lt;/em&gt; for $k$-d PCPs in general, yet &lt;em&gt;decidable&lt;/em&gt; for $1$-d PCPs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by Journal of Software</title>
+      <link>https://fiction-zju.github.io/news/24-11-26-paper-jos2025/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-11-26-paper-jos2025/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by Journal of Software.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/tan-jos2025/&#34;&gt;Fast-USYN: Fast Synthesis from Unitary Matrices to High-Quality Quantum Circuits&lt;/a&gt;&amp;rdquo; (in Chinese) by Siwei Tan, Liqiang Lu, Congliang Lang, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Jianwei Yin has been accepted for publication at the Journal of Software as part of its Special Issue on Formal Methods and Their Applications, 2025. This paper contributes Fast-USYN &amp;ndash; a novel approach that enables the fast synthesis from unitary matrices to high-quality quantum circuits.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Book Chapter in JPK&#39;s Festschrift</title>
+      <link>https://fiction-zju.github.io/news/24-11-13-paper-jpk60/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-11-13-paper-jpk60/</guid>
+      <description>&lt;p&gt;Our paper appears in the Festschrift dedicated to Joost-Pieter Katoen.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/feng-jpk60/&#34;&gt;A Unified Framework for Quantitative Analysis of Probabilistic Programs&lt;/a&gt;&amp;rdquo; by Shenghua Feng (Zhongguancun Lab), Tengshun Yang (ISCAS), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Naijun Zhan (PKU) has been published as a book chapter in JPK&amp;rsquo;s Festschrift &amp;ndash; &lt;a href=&#34;https://doi.org/10.1007/978-3-031-75783-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principles of Verification: Cycling the Probabilistic Landscape&lt;/a&gt;. This paper presents a unified framework for the quantitative analysis of probabilistic programs, which incorporates and extends existing results on the analysis of termination, temporal properties, and expected cost. We dedicate this article to our dear colleague Joost-Pieter Katoen on the occasion of his 60th birthday, who has been tirelessly pushing the limits of, amongst others, (automated) quantitative analysis of probabilistic programs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ASE 2024</title>
+      <link>https://fiction-zju.github.io/news/24-08-07-paper-ase2024/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-08-07-paper-ase2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at ASE 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/wang-ase2024/&#34;&gt;Parf: Adaptive Parameter Refining for Abstract Interpretation&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/zhongyi-wang/&#34;&gt;Zhongyi Wang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/linyu-yang/&#34;&gt;Linyu Yang&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/yixuan-bu/&#34;&gt;Yixuan Bu&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/zhiyang-li/&#34;&gt;Zhiyang Li&lt;/a&gt;, Qiuye Wang (Fermat Labs, Huawei Inc.), Shengchao Qin (Fermat Labs, Huawei Inc.), Xiao Yi (Fermat Labs, Huawei Inc.), and Jianwei Yin has been accepted for presentation at ASE 2024 &amp;ndash; the 39th IEEE/ACM International Conference on Automated Software Engineering, at California, United States. This paper presents a novel framework called Parf for adaptively tuning external parameters of abstract interpretation-based static analyzers. Parf is, to the best of our knowledge, the first fully automated approach that supports incremental refinement of such parameters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ACM MM 2024</title>
+      <link>https://fiction-zju.github.io/news/24-07-16-paper-acmmm2024/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-07-16-paper-acmmm2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at ACM MM 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/chen-acmmm2024/&#34;&gt;UniGM: Unifying Multiple Pre-trained Graph Models via Adaptive Knowledge Aggregation&lt;/a&gt;&amp;rdquo; by Jintao Chen, Fan Wang, Shengye Pang, Siwei Tan, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Tiancheng Zhao, Meng Xi, and Jianwei Yin has been accepted for presentation at ACM MM 2024 &amp;ndash; the 32nd ACM International Conference on Multimedia at Melbourne, Australia. This paper presents UniGM &amp;ndash; a framework for unifying multiple pre-trained graph models (GMs) via
+adaptive knowledge aggregation, which makes one of the first attempts to unify multiple pre-trained GMs for better performance in downstream tasks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by FM 2024</title>
+      <link>https://fiction-zju.github.io/news/24-06-11-paper-fm2024/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-06-11-paper-fm2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at FM 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/sun-fm2024/&#34;&gt;Proving Functional Program Equivalence via Directed Lemma Synthesis&lt;/a&gt;&amp;rdquo; by Yican Sun (PKU), Ruyi Ji (PKU), Jian Fang (PKU), Xuanlin Jiang (PKU), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Yingfei Xiong (PKU) has been accepted for presentation at FM 2024 &amp;ndash; the International Symposium on Formal Methods at Milan, Italy. This paper presents directed lemma synthesis, an effective approach to automating equivalence proofs for functional programs by discovering critical lemmas using program synthesis techniques.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ICWS (SRG) 2024</title>
+      <link>https://fiction-zju.github.io/news/24-06-05-paper-icws-srg2024/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-06-05-paper-icws-srg2024/</guid>
+      <description>&lt;p&gt;Our work-in-progress paper has been accepted for presentation at ICWS (SRG) 2024.&lt;/p&gt;
+&lt;p&gt;Our work-in-progress paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/sun-icws-srg2024/&#34;&gt;Horae: A Domain-Agnostic Modeling Language for Automating Multimodal Service Regulation&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/yutao-sun/&#34;&gt;Yutao Sun&lt;/a&gt;, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Kangjia Zhao, and Jintao Chen has been accepted for presentation at ICWS (SRG) 2024 &amp;ndash; the International Conference on Web Services (Workshop on Services Regulation &amp;amp; Governance) at Shenzhen, China. This work-in-progress paper presents the design principles behind Horae, a unified specification language to model multimodal regulation rules across a diverse set of domains.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by Tsinghua Sci. Tech.</title>
+      <link>https://fiction-zju.github.io/news/24-05-08-paper-tst2024/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-05-08-paper-tst2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted by Tsinghua Science and Technology.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/chen-tst2024/&#34;&gt;A Privacy Policy Text Compliance Reasoning Framework with Large Language Models for Healthcare Services&lt;/a&gt;&amp;rdquo; by Jintao Chen, Fan Wang, Shengye Pang, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Meng Xi, Tiancheng Zhao, and Jianwei Yin has been accepted for publication at the Tsinghua Science and Technology journal. This article contributes an LLM-driven framework for reasoning about the compliance of privacy policy text.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ASPLOS 2024</title>
+      <link>https://fiction-zju.github.io/news/24-02-29-paper-asplos2024b/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-02-29-paper-asplos2024b/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at ASPLOS 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/tan-asplos2024b/&#34;&gt;MorphQPV: Exploiting Isomorphism in Quantum Programs to Facilitate Confident Verification&lt;/a&gt;&amp;rdquo; by Siwei Tan, Debin Xiang, Liqiang Lu, Junlin Lu (PKU), Qiuping Jiang (NBU), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Jianwei Yin has been accepted for presentation at ASPLOS 2024 &amp;ndash; the ACM International Conference on Architectural Support for Programming Languages and Operating Systems at San Diego, USA. This paper contributes a novel methodology to facilitate assertion-based verification of quantum programs by leveraging the isomorphism property thereof.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by CIBD 2024</title>
+      <link>https://fiction-zju.github.io/news/24-03-18-paper-cibd2024/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/24-03-18-paper-cibd2024/</guid>
+      <description>&lt;p&gt;Our extended abstract has been accepted for presentation at CIBD 2024.&lt;/p&gt;
+&lt;p&gt;Our extended abstract titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/yang-cibd2024/&#34;&gt;Latticed Craig Interpolation with an Application to Probabilistic Verification&lt;/a&gt;&amp;rdquo; by &lt;a href=&#34;https://fiction-zju.github.io/author/mingqi-yang/&#34;&gt;Mingqi Yang&lt;/a&gt;, Kevin Batz (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Joost-Pieter Katoen (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/zhiang-wu/&#34;&gt;Zhiang Wu&lt;/a&gt;, and Jianwei Yin has been accepted for presentation at CIBD 2024 &amp;ndash; the Workshop on Theory and Applications of Craig Interpolation and Beth Definability at Amsterdam, Netherlands. This extended abstract presents our ongoing research in quantitative verification of (infinite-state) probabilistic programs with potentially unbounded loops leveraging the technique of latticed Craig interpolation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by OOPSLA 2024</title>
+      <link>https://fiction-zju.github.io/news/23-12-23-paper-oopsla2024/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/23-12-23-paper-oopsla2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at OOPSLA 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/klinkenberg-oopsla2024/&#34;&gt;Exact Bayesian Inference for Loopy Probabilistic Programs using Generating Functions&lt;/a&gt;&amp;rdquo; by Lutz Klinkenberg (RWTH Aachen), Christian Blumenthal (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Darion Haase (RWTH Aachen), and Joost-Pieter Katoen (RWTH Aachen) has been accepted for presentation at OOPSLA 2024 in California, United States, as part of the Proceedings of the ACM on Programming Languages (PACMPL). This paper contributes an exact Bayesian inference method for inferring posterior distributions encoded by probabilistic programs featuring possibly unbounded loops.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ASPLOS 2024</title>
+      <link>https://fiction-zju.github.io/news/23-11-08-paper-asplos2024/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/23-11-08-paper-asplos2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at ASPLOS 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/tan-asplos2024/&#34;&gt;QuFEM: Fast and Accurate Quantum Readout Calibration Using the Finite Element Method&lt;/a&gt;&amp;rdquo; by Siwei Tan, Liqiang Lu, Hanyu Zhang, Jia Yu, Congliang Lang, Yongheng Shang, Xinkui Zhao, &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Yun Liang (PKU), and Jianwei Yin has been accepted for presentation at ASPLOS 2024 &amp;ndash; the ACM International Conference on Architectural Support for Programming Languages and Operating Systems at San Diego, USA. This paper contributes a novel readout-calibration framework for reducing the impact of measurement errors in quantum programs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by ICSE 2024</title>
+      <link>https://fiction-zju.github.io/news/23-10-10-paper-icse2024/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/23-10-10-paper-icse2024/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at ICSE 2024.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/zhan-icse2024/&#34;&gt;PS3: Precise Patch Presence Test Based on Semantic Symbolic Signature&lt;/a&gt;&amp;rdquo; by Qi Zhan, Xing Hu, &lt;a href=&#34;https://fiction-zju.github.io/author/zhiyang-li/&#34;&gt;Zhiyang Li&lt;/a&gt;, Xin Xia (Huawei), and David Lo (SMU) has been accepted as a Full Paper at ICSE 2024 &amp;ndash; the 46th International Conference on Software Engineering at Lisbon, Portugal. This paper contributes a novel technique for precise patch-presence test based on semantic symbolic signature.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by OOPSLA 2023</title>
+      <link>https://fiction-zju.github.io/news/23-02-27-paper-oopsla2023/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/23-02-27-paper-oopsla2023/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at OOPSLA 2023.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/feng-oopsla2023/&#34;&gt;Lower Bounds for Possibly Divergent Probabilistic Programs&lt;/a&gt;&amp;rdquo; by Shenghua Feng (ISCAS), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Han Su (ISCAS), Benjamin Lucien Kaminski (Saarland/UCL), Joost-Pieter Katoen (RWTH Aachen), and Naijun Zhan (ISCAS) has been accepted for presentation at OOPSLA 2023 in Lisbon, Portugal, as part of the Proceedings of the ACM on Programming Languages (PACMPL). This paper contributes a new proof rule for verifying lower bounds on quantities of possibly divergent probabilistic programs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by TACAS 2023</title>
+      <link>https://fiction-zju.github.io/news/22-12-23-paper-tacas2023/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-12-23-paper-tacas2023/</guid>
+      <description>&lt;p&gt;Our paper has been accepted for presentation at TACAS 2023.&lt;/p&gt;
+&lt;p&gt;Our paper titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/batz-cegis2023/&#34;&gt;Probabilistic Program Verification via Inductive Synthesis of Inductive Invariants&lt;/a&gt;&amp;rdquo; by Kevin Batz (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, Sebastian Junges (Radboud), Benjamin Lucien Kaminski (Saarland/UCL), Joost-Pieter Katoen (RWTH Aachen), and Christoph Matheja (DTU) has been accepted for presentation at TACAS 2023 &amp;ndash; the 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems at Paris, France. This paper contributes a simple yet effective inductive synthesis approach for proving quantitative properties of (in)finite-state probabilistic programs by generating inductive invariants on source-code level.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Accepted by LAFI 2023</title>
+      <link>https://fiction-zju.github.io/news/22-12-01-paper-lafi2023/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/news/22-12-01-paper-lafi2023/</guid>
+      <description>&lt;p&gt;Our extended abstract has been accepted for presentation at LAFI 2023.&lt;/p&gt;
+&lt;p&gt;Our extended abstract titled &amp;ldquo;&lt;a href=&#34;https://fiction-zju.github.io/publication/klinkenberg-lafi2023/&#34;&gt;Exact Probabilistic Inference Using Generating Functions&lt;/a&gt;&amp;rdquo; by Lutz Klinkenberg (RWTH Aachen), Tobias Winkler (RWTH Aachen), &lt;a href=&#34;https://fiction-zju.github.io/author/mingshuai-chen/&#34;&gt;Mingshuai Chen&lt;/a&gt;, and Joost-Pieter Katoen (RWTH Aachen) has been accepted for presentation at LAFI 2023 &amp;ndash; the Languages for Inference workshop co-located with POPL 2023 at Boston, Massachusetts, United States. This extended abstract presents our ongoing research in addressing the problem of exact inference for probabilistic programs leveraging generating functions.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
