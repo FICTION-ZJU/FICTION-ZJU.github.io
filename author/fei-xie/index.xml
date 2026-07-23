@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Xie | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/author/fei-xie/</link>
+      <atom:link href="https://fiction-zju.github.io/author/fei-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fei Xie</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fiction-zju.github.io/author/fei-xie/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_364706_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Fei Xie</title>
+      <link>https://fiction-zju.github.io/author/fei-xie/</link>
+    </image>
+    
+  </channel>
+</rss>

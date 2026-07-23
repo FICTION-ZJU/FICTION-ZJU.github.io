@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yazhou Tang | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/author/yazhou-tang/</link>
+      <atom:link href="https://fiction-zju.github.io/author/yazhou-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yazhou Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/author/yazhou-tang/avatar_hua07ed3156626c823e950a2d5c57667ce_195119_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yazhou Tang</title>
+      <link>https://fiction-zju.github.io/author/yazhou-tang/</link>
+    </image>
+    
+    <item>
+      <title>Formalizing the Linux eBPF Core ISA: A Mechanized Operational Semantics and Its Real-World Applications</title>
+      <link>https://fiction-zju.github.io/publication/yuan-oopsla2026/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/yuan-oopsla2026/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
