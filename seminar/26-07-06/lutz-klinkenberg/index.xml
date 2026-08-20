@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exact Inference for Probabilistic Programs with Loops via PGF semantics | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/26-07-06/lutz-klinkenberg/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/26-07-06/lutz-klinkenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Exact Inference for Probabilistic Programs with Loops via PGF semantics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Exact Inference for Probabilistic Programs with Loops via PGF semantics</title>
+      <link>https://fiction-zju.github.io/seminar/26-07-06/lutz-klinkenberg/</link>
+    </image>
+    
+  </channel>
+</rss>

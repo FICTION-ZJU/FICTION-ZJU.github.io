@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reach-avoid | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/tag/reach-avoid/</link>
+      <atom:link href="https://fiction-zju.github.io/tag/reach-avoid/index.xml" rel="self" type="application/rss+xml" />
+    <description>reach-avoid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>reach-avoid</title>
+      <link>https://fiction-zju.github.io/tag/reach-avoid/</link>
+    </image>
+    
+    <item>
+      <title>Tolerant Barrier Certificates for Stochastic Systems</title>
+      <link>https://fiction-zju.github.io/publication/feng-tcad2026/</link>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/feng-tcad2026/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

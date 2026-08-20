@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taming the Internet of Things Using the Hybrid Pi Calculus | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/events/pifi/jeanpierre_talpin/</link>
+      <atom:link href="https://fiction-zju.github.io/events/pifi/jeanpierre_talpin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taming the Internet of Things Using the Hybrid Pi Calculus</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Taming the Internet of Things Using the Hybrid Pi Calculus</title>
+      <link>https://fiction-zju.github.io/events/pifi/jeanpierre_talpin/</link>
+    </image>
+    
+  </channel>
+</rss>
