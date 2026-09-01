@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoning Zhang | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/author/xiaoning-zhang/</link>
+      <atom:link href="https://fiction-zju.github.io/author/xiaoning-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoning Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fiction-zju.github.io/author/xiaoning-zhang/avatar_hu2d25459d974daac7242b0a8cbbcb7217_661024_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xiaoning Zhang</title>
+      <link>https://fiction-zju.github.io/author/xiaoning-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>
