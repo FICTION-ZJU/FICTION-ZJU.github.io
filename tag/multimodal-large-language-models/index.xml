@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multimodal large language models | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/tag/multimodal-large-language-models/</link>
+      <atom:link href="https://fiction-zju.github.io/tag/multimodal-large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>multimodal large language models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>multimodal large language models</title>
+      <link>https://fiction-zju.github.io/tag/multimodal-large-language-models/</link>
+    </image>
+    
+    <item>
+      <title>Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models</title>
+      <link>https://fiction-zju.github.io/publication/miao-gap2026/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/miao-gap2026/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preserving Knowledge in Large Language Model with Model-Agnostic Self-Decompression</title>
+      <link>https://fiction-zju.github.io/publication/zhang-icassp2026/</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/zhang-icassp2026/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
