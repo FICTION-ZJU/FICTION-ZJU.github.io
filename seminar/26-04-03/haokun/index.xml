@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一种人类战略指导下的自验证开发范式：LLM Agent 全过程构建、调试并形式化验证多项式因式分解库 | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/26-04-03/haokun/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/26-04-03/haokun/index.xml" rel="self" type="application/rss+xml" />
+    <description>一种人类战略指导下的自验证开发范式：LLM Agent 全过程构建、调试并形式化验证多项式因式分解库</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>一种人类战略指导下的自验证开发范式：LLM Agent 全过程构建、调试并形式化验证多项式因式分解库</title>
+      <link>https://fiction-zju.github.io/seminar/26-04-03/haokun/</link>
+    </image>
+    
+  </channel>
+</rss>

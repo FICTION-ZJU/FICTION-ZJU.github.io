@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deductive verification | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/tag/deductive-verification/</link>
+      <atom:link href="https://fiction-zju.github.io/tag/deductive-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>deductive verification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>deductive verification</title>
+      <link>https://fiction-zju.github.io/tag/deductive-verification/</link>
+    </image>
+    
+    <item>
+      <title>A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs</title>
+      <link>https://fiction-zju.github.io/publication/wang-oopsla2026/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/wang-oopsla2026/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preguss: It Analyzes, It Specifies, It Verifies</title>
+      <link>https://fiction-zju.github.io/publication/wang-lmpl2025/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://fiction-zju.github.io/publication/wang-lmpl2025/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
