@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemma Syntheses in Lean4 with Large Language Models | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/26-04-03/linyu/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/26-04-03/linyu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lemma Syntheses in Lean4 with Large Language Models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Lemma Syntheses in Lean4 with Large Language Models</title>
+      <link>https://fiction-zju.github.io/seminar/26-04-03/linyu/</link>
+    </image>
+    
+  </channel>
+</rss>
