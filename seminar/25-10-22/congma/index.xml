@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lexical Effect Handlers: Fast by Design, Correct by Proof | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/25-10-22/congma/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/25-10-22/congma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lexical Effect Handlers: Fast by Design, Correct by Proof</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>Lexical Effect Handlers: Fast by Design, Correct by Proof</title>
+      <link>https://fiction-zju.github.io/seminar/25-10-22/congma/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P³: Joint Program-and-Proof Planning for Verified Code Generation | Formal Verification Group</title>
+    <link>https://fiction-zju.github.io/seminar/26-08-14/xiaoning/</link>
+      <atom:link href="https://fiction-zju.github.io/seminar/26-08-14/xiaoning/index.xml" rel="self" type="application/rss+xml" />
+    <description>P³: Joint Program-and-Proof Planning for Verified Code Generation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fiction-zju.github.io/media/sharing.jpeg</url>
+      <title>P³: Joint Program-and-Proof Planning for Verified Code Generation</title>
+      <link>https://fiction-zju.github.io/seminar/26-08-14/xiaoning/</link>
+    </image>
+    
+  </channel>
+</rss>
